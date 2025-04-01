@@ -9,7 +9,11 @@
 
 ###
 
-<img align="right" height="150" width="150" src="./pfp.gif"  />
+<img align="right" height="125" width="125" src="./pfp.gif"  />
+
+###
+
+<h3 align="left">Skills / Knowledge</h3>
 
 ###
 
@@ -38,6 +42,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
+
+###
+
+<h3 align="left">My socials</h3>
 
 ###
 
