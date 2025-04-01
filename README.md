@@ -1,15 +1,12 @@
-<h2 align="left">What's up?  I'm Jairo, an all round developer from Uruguay</h2>
+<h2 align="left">What's up?  I'm Jairo, a full-stack developer from Uruguay (who loves Visual Novels)</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jair4x&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=jair4x&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jair4x&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=monokai&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
+  <img src="https://streak-stats.demolab.com?user=jair4x&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img align="right" height="150" width="150" src="./kurumi.gif"  />
 </div>
-
-###
-
-<img align="right" height="125" width="125" src="./pfp.gif"  />
 
 ###
 
