@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="./pfp.gif"  />
+<img align="right" height="150" width="150" src="./pfp.gif"  />
 
 ###
 
