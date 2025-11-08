@@ -1,5 +1,5 @@
 <h2 align="left">What's up?</h2>
-I'm **Jairo (he/him)**, a Full-Stack developer and translator that loves Visual Novels. I work on random projects in my free time, a lot of them related to the visual novel Fan Translation community.
+I'm <b>Jairo (he/him)</b>, a Full-Stack developer and translator that loves Visual Novels. I work on random projects in my free time, a lot of them related to the visual novel Fan Translation community.
 
 ###
 
