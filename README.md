@@ -1,65 +1,68 @@
-<h2 align="left">What's up?  I'm Jairo, a full-stack developer from Uruguay (who loves Visual Novels)</h2>
+<h2 align="left">What's up?</h2>
+I'm **Jairo (he/him)**, a Full-Stack developer and translator that loves Visual Novels. I work on random projects in my free time, a lot of them related to the visual novel Fan Translation community.
 
 ###
 
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jair4x&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=monokai&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=jair4x&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img align="right" height="150" width="150" src="./kurumi.gif"  />
-</div>
+- 📋 Currently working on [Cloud Nine Café](https://github.com/jair4x/cloud-nine-cafe)  
+  
+
+- 🌐 Re-learning React and Java  
+  
+
+- ❓ Ask me about anything related to Visual Novel reverse engineering  
+  
+
+- ⚡ Fun fact: I drink milk, not coffee
 
 ###
 
-<h3 align="left">Skills / Knowledge</h3>
-
-###
-
+### Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="50" /></a>
 </div>
 
-###
-
-<h3 align="left">My socials</h3>
-
-###
-
+### Backend  
 <div align="left">
-  <a href="https://www.instagram.com/jair4x.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=jair4x.dev&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://twitch.tv/jair4x" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=jair4x&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://cafecloudnine.com/discord" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=@Jair4x&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://x.com/@jair4x" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=@jair4x&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>
+<a href="https://bun.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bun" alt="Bun" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=expressjs" alt="Express.js" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=astro" alt="Astro" height="50" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cs" alt="C#" height="50" /></a>
 </div>
+
+### DevOps  
+<div align="left">
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" /></a>
+</div>
+
+<br/>   
+
+###
+
+### Socials
+<div align="left">
+<a href="https://x.com/jair4x" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2324292e.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/jairo-severo" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div> 
 
 ###
 
