@@ -1,22 +1,21 @@
 <h2 align="left">What's up?</h2>
-I'm <b>Jairo (I go by he/him)</b>, a wannabe Full-Stack developer that loves Visual Novels. I work on random projects in my free time, a lot of them are tools related to visual novels' reverse engineering, though most don't make it here.
+I'm <b>Jairo (I go by he/him)</b>, a Full-Stack developer that loves Visual Novels. I work on random projects in my free time, a lot of them are tools related to visual novels' reverse engineering, though most don't make it here.
 
 ###
 
-- 📋 Currently working on [Cloud Nine Café](https://github.com/jair4x/cloud-nine-cafe)  
+- 📋 Currently working on [Ánimagent](https://github.com/jair4x/animagent)
   
 
-- 🌐 Learning Astro + Vue  
+- 🌐 Learning Astro + Vue
   
 
-- ⚡ Fun fact: I drink milk, not coffee
+- ⚡ Fun fact: I LOVE milk, not coffee, so if you see me up and running, I've drank milk.
 
 ###
 
 ### Still learning
 <div align="left">
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" /></a>
   <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="Vue" height="50" /></a>
   <a href="https://astro.build/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=astro" alt="Astro" height="50" /></a>
 </div>
@@ -32,13 +31,10 @@ I'm <b>Jairo (I go by he/him)</b>, a wannabe Full-Stack developer that loves Vis
 
 ### Backend  
 <div align="left">
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>
 <a href="https://bun.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bun" alt="Bun" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=expressjs" alt="Express.js" height="50" /></a>
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="50" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cs" alt="C#" height="50" /></a>
 </div>
@@ -60,8 +56,6 @@ I'm <b>Jairo (I go by he/him)</b>, a wannabe Full-Stack developer that loves Vis
 </div> 
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/jair4x/jair4x/output/snake.svg" alt="Snake animation" />
 
