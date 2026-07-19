@@ -1,15 +1,24 @@
-<h2 align="left">What's up?</h2>
-I'm <b>Jairo (I go by he/him)</b>, a Full-Stack developer that loves Visual Novels. I work on random projects in my free time, a lot of them are tools related to visual novels' reverse engineering, though most don't make it here.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=What's%20up?&fontSize=40&fontColor=fff&animation=fadeIn">
+</div>
+
+I'm **Jairo (he/him)**, a Full-Stack developer that *loves* Visual Novels. I learn new things and work on random projects in my free time, a lot of them are tools related to reverse engineering, though most don't make it here.
 
 ###
 
-- 📋 Currently working on [Ánimagent](https://github.com/jair4x/animagent)
-  
+<div align="center">
+  <img src="https://img.shields.io/badge/Working%20on-%C3%81nimAgent-833ead?style=for-the-badge" alt="Working on ÁnimAgent">
+  <img src="https://img.shields.io/badge/Currently-Online-green?style=for-the-badge" alt="Currently online">
+  <img src="https://img.shields.io/badge/Open%20to%20work-blue?style=for-the-badge" alt="Open to work">
+</div>
 
-- 🌐 Learning Astro + Vue
-  
+###
 
-- ⚡ Fun fact: I LOVE milk, not coffee, so if you see me up and running, I've drank milk.
+<div align="center">
+  <h2>Socials</h2>
+  <a href="https://linkedin.com/in/jairo-severo/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:jairosevero06@gmail.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Email-lightgray?style=for-the-badge" alt="My email"/></a>
+</div>
 
 ###
 
@@ -27,6 +36,7 @@ I'm <b>Jairo (I go by he/him)</b>, a Full-Stack developer that loves Visual Nove
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a>
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="50" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="50" /></a>
 </div>
 
 ### Backend  
@@ -44,16 +54,8 @@ I'm <b>Jairo (I go by he/him)</b>, a Full-Stack developer that loves Visual Nove
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" /></a>
 </div>
-
-<br/>   
-
-### Socials
-<div align="left">
-<a href="https://linkedin.com/in/jairo-severo" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div> 
 
 ###
 
