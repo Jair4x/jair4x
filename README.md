@@ -7,7 +7,7 @@ I'm **Jairo (he/him)**, a Full-Stack developer that *loves* Visual Novels. I lea
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Working%20on-%C3%81nimAgent-833ead?style=for-the-badge" alt="Working on ÁnimAgent">
+  <img src="https://img.shields.io/badge/Working%20on-a%20secret%20project-833ead?style=for-the-badge" alt="Working on a secret project">
   <img src="https://img.shields.io/badge/Currently-Online-green?style=for-the-badge" alt="Currently online">
   <img src="https://img.shields.io/badge/Open%20to%20work-blue?style=for-the-badge" alt="Open to work">
 </div>
