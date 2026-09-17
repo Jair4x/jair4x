@@ -25,7 +25,6 @@ I'm **Jairo (he/him)**, a Full-Stack developer that *loves* Visual Novels. I lea
 ### Still learning
 <div align="left">
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="Vue" height="50" /></a>
   <a href="https://astro.build/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=astro" alt="Astro" height="50" /></a>
 </div>
 
