@@ -32,6 +32,7 @@ I'm **Jairo (he/him)**, a Full-Stack developer that *loves* Visual Novels. I lea
 <div align="left">
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>
+<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a>
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="50" /></a>
